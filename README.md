@@ -16,7 +16,7 @@
 FlutterTips 项目是一个以分类来组织内容的松散知识点的合集，`publish` 文件夹内将会是分类文件夹。目前我们将分类划分为： 
 
 * `tools` 工具相关
-* `basic` 基础知识、
+* `basic` 基础知识
 * `advance` 进阶知识
 * `practice` 最佳实践
 
